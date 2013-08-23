@@ -10,6 +10,6 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://talha131.github.io'
+SITEURL = 'http://oncrashreboot.com'
 OUTPUT_RETENTION = ['.git', '.gitignore']
 DELETE_OUTPUT_DIRECTORY = True
