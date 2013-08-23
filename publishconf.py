@@ -11,3 +11,5 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'http://talha131.github.io'
+OUTPUT_RETENTION = ['.git', '.gitignore']
+DELETE_OUTPUT_DIRECTORY = True
