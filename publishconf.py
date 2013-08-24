@@ -11,6 +11,6 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = u'http://oncrashreboot.com'
-OUTPUT_RETENTION = ['.git', '.gitignore', 'CNAME', 'README.md']
+OUTPUT_RETENTION = ['.git', '.gitignore', 'CNAME', 'README.md', 'robots.txt']
 DELETE_OUTPUT_DIRECTORY = True
 GOOGLE_ANALYTICS = u'UA-43454971-1'
